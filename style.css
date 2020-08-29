@@ -1,0 +1,25 @@
+.box {
+	box-shadow: 8px 8px 15px gainsboro;
+}
+.video {
+	width: 100%;
+	height: 350px
+}
+.recipe {
+	text-align: center;
+	margin: auto;
+	border: 2px solid #007BFF;
+	padding: 10px;
+}
+.imgS {
+	width: 400px;
+	height: auto;
+}
+.RecipeToday {
+	border: 2px solid #007BFF;
+	padding: 10px;
+	font-weight: bold;
+}
+.cate, .list {
+	border: 2px solid #007BFF;
+}
